@@ -1,0 +1,11 @@
+{
+    "parcelados": [
+        {
+            "motivo": "Teste",
+            "valorMes": 100,
+            "mesFinal": 9,
+            "parcelas": "1/3",
+            "cartao": "Porto Seguro"
+        }
+    ]
+}
